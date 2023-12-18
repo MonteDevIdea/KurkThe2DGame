@@ -52,25 +52,28 @@ Les bibliothèques et APIs suivantes sont utilisées dans le développement de K
 - LDtk
 
 ## Structure du Projet
-
+<p align="center">
+    <img src="ImgReadMe/Main Menu.png" alt="Menu"  />
+    <img src="ImgReadMe/In Game.png" alt="Game" />
+    <img src="ImgReadMe/Arena.png" alt="Arena" />
+    <img src="ImgReadMe/Shop.png" alt="Shop" />
+</p>
+  
 ## Galerie
 <p align="center">
-  <img src="ImgReadMe/Launch Screen.png" alt="Description de l'image 1" width="300" />
-  <img src="ImgReadMe/Home Screen.png" alt="Description de l'image 2" width="300" />
-  <img src="ImgReadMe/Poutine All of Fame Screen.png" alt="Description de l'image 1" width="300" />
+  <img src="ImgReadMe/Tania.png" alt="Tania" width="300" />
+  <img src="ImgReadMe/Edgar.png" alt="Edgar" width="300" />
+  <img src="ImgReadMe/Tuctu_create_a_statue_in_a_city_in_bloodborne_style_61800459-fa9d-4496-bde9-7e7e17b7ee7c.png" alt="Inspi Blood" width="300" />
 </p>
 <p align="center">
-  <img src="ImgReadMe/Multiple Mode Screen - Free Mode.png" alt="Description de l'image 2" width="300" />
-  <img src="ImgReadMe/Multiple Mode Screen - Normal Mode.png" alt="Description de l'image 2" width="300" />
-  <img src="ImgReadMe/Multiple Mode Screen - Pomodoro Mode.png" alt="Description de l'image 2" width="300" />
+  <img src="ImgReadMe/Tuctu_fight_between_a_male_vampire_with_an_red_amor_fighting_ag_e136c5ee-2ad2-478f-aa57-042944d78c67.png" alt="Vamp V Angel" width="300" />
+  <img src="ImgReadMe/city_district_example.png" alt="city_district_example" width="300" />
+  <img src="ImgReadMe/soldier_inspi_five.png" alt="soldier_inspi_five" width="300" />
 </p>
 <p align="center">
-  <img src="ImgReadMe/Timer Screen - Free Mode.png" alt="Description de l'image 2" width="300" />
-  <img src="ImgReadMe/Timer Screen - Normal Mode.png" alt="Description de l'image 2" width="300" />
-  <img src="ImgReadMe/Timer Screen - Pomodoro Mode.png" alt="Description de l'image 2" width="300" />
-</p>
-<p align="center">
-  <img src="ImgReadMe/DashboardVisual Productivity Screen.png" alt="Description de l'image 2" width="300" />
+  <img src="ImgReadMe/soldier_inspi_four.png" alt="soldier_inspi_four" width="300" />
+  <img src="ImgReadMe/Tuctu_nightmare_abobination_angel_corrupted_have_5_arms_tiny_or_1ccc246f-90d5-4064-a99b-4b90f91ca918.png" alt="Nightmare1" width="300" />
+  <img src="ImgReadMe/Tuctu_nightmare_abobination_angel_corrupted_have_5_arms_tiny_or_39b66d89-033d-4f38-8617-c1b437e8b060.png" alt="Nightmare2" width="300" />
 </p>
 
 ## Plateformes
@@ -86,7 +89,7 @@ Projet fait par des passionnées de la tech Kotlin et de KorGE.
 Le projet est ouvert aux contributions. N'hésitez pas à soumettre vos idées et suggestions en créant une nouvelle "issue" dans le repository et/ou me faire part de ceci via Github et autres.
 
 <p align="center">
-  <img src="ImgReadMe/Tuctu_draw_a_moose_in_a_yoga_pose_in_Cartoon_Style_no_backgroun_02ab477f-90c8-4dff-84c2-1141717fe8f4.png" alt="Description de l'image 2" width="300" />
+  <img src="ImgReadMe/logo_inspi_one.png" alt="logo_inspi_one" width="300" />
 </p>
 
 [Kotlin]: https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=kotlin&logoColor=7F52FF
