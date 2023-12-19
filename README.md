@@ -6,52 +6,52 @@
 </p>
 
 ## Description
-"Kurk" est un jeu vidéo narratif et immersif qui transporte les joueurs au cœur d'une ville néo-gothique mystérieuse, s'inspirant des univers sombres et mythiques de "Magic the Gathering" (Innistrad) et de "Bloodborne" (Yharnam). L'intrigue captivante explore la chute et la descente à la folie d'une société, suivant les péripéties de personnages clés, tels que des vampires, des anges, des goules, des abominations et des membres de cultes divers.
+"Kurk" is a narrative and immersive video game that transports players into the heart of a mysterious neo-gothic city, inspired by the dark and mythical worlds of "Magic the Gathering" (Innistrad) and "Bloodborne" (Yharnam). The captivating storyline explores the fall and descent into madness of a society, following the adventures of key characters, such as vampires, angels, ghouls, abominations, and members of various cults.
 
-L'atmosphère du jeu évolue, passant de l'espoir au début de l'aventure vers le chaos et le désespoir, offrant une expérience riche et émotionnelle.
+The game's atmosphere evolves from hope at the beginning of the adventure to chaos and despair, offering a rich and emotional experience.
 
-## Fonctionnalités Principales (MVP)
+## Main Features (MVP)
 
-- **Survival Game :** Le jeu se concentre initialement sur un mode survie.
+- **Survival Game:** The game initially focuses on a survival mode.
 
-- **Système de Vague Infini :** Intégration d'un système de vagues infinies d'ennemis.
+- **Infinite Wave System:** Integration of an infinite wave system of enemies.
 
-- **Shop pour Débloquer d'Autres Armes et Pouvoirs :** Mise en place d'une boutique permettant de débloquer une variété d'armes et de pouvoirs.
+- **Shop to Unlock Other Weapons and Powers:** Implementation of a shop to unlock a variety of weapons and powers.
 
-- **One Tap pour se Battre :** Utilisation d'un système simple de "One Tap" pour les combats.
+- **One Tap to Fight:** Use of a simple "One Tap" system for combat.
 
-- **Boss, Mini-Boss et Ennemis Mineurs :** Présence de boss, de mini-boss et d'ennemis mineurs.
+- **Bosses, Mini-Bosses, and Minor Enemies:** Presence of bosses, mini-bosses, and minor enemies.
 
-## Fonctionnalités Principales (Final Version)
+## Main Features (Final Version)
 
-- **Évolution vers un Mode Plateforme 2D, Souls-like et RPG :** Passage à un esprit de plateforme 2D, souls-like et RPG.
+- **Evolution to a 2D Platformer, Souls-like, and RPG Mode:** Transition to a 2D platformer, souls-like, and RPG spirit.
 
-- **Personnalisation du Personnage Principal :** Possibilité pour les joueurs de personnaliser leur personnage principal.
+- **Customization of the Main Character:** Ability for players to customize their main character.
 
-- **Expansion des Lieux :** Accès à davantage d'endroits dans le monde du jeu.
+- **Expansion of Locations:** Access to more locations in the game world.
 
-- **Mode Histoire avec Fins Multiples :** Introduction d'un mode histoire avec des fins multiples.
+- **Story Mode with Multiple Endings:** Introduction of a story mode with multiple endings.
 
-- **Ajout de Compétences, Pouvoirs et Capacités :** Enrichissement du personnage avec de nouvelles compétences, pouvoirs et capacités.
+- **Addition of Skills, Powers, and Abilities:** Enrichment of the character with new skills, powers, and abilities.
 
 # Technologies
 [![Kotlin][Kotlin]][Kotlin-url]
 [![IOS][IOS]][IOS-url]
 [![Android][Android]][Android-url]
 
-## Langages et Frameworks
-Les langages et frameworks utilisés pour le développement de KURK sont les suivants:
+## Languages and Frameworks
+The languages and frameworks used for the development of KURK are as follows:
 
 - KorGE Game Engine
 - Kotlin
 - Compose Multiplatform
 
-## Bibliothèques et APIs
-Les bibliothèques et APIs suivantes sont utilisées dans le développement de KURK :
+## Libraries and APIs
+The following libraries and APIs are used in the development of KURK:
 
 - LDtk
 
-## Structure du Projet
+## Project Structure
 <p align="center">
     <img src="ImgReadMe/Main Menu.png" alt="Menu"  />
     <img src="ImgReadMe/In Game.png" alt="Game" />
@@ -59,7 +59,7 @@ Les bibliothèques et APIs suivantes sont utilisées dans le développement de K
     <img src="ImgReadMe/Shop.png" alt="Shop" />
 </p>
   
-## Galerie
+## Gallery
 <p align="center">
   <img src="ImgReadMe/Tania.png" alt="Tania" width="300" />
   <img src="ImgReadMe/Edgar.png" alt="Edgar" width="300" />
@@ -76,17 +76,17 @@ Les bibliothèques et APIs suivantes sont utilisées dans le développement de K
   <img src="ImgReadMe/Tuctu_nightmare_abobination_angel_corrupted_have_5_arms_tiny_or_39b66d89-033d-4f38-8617-c1b437e8b060.png" alt="Nightmare2" width="300" />
 </p>
 
-## Plateformes
-L'application sera disponible sur les plateformes mobile iOS et Android pour la v1.0.
+## Platforms
+The application will be available on iOS and Android mobile platforms for v1.0.
 
-## Date de sortie
-La date de sortie de l'application sur IOS et Android est prévue pour ???.
+## Release Date
+The release date of the application on iOS and Android is scheduled for ???.
 
-## Plus de détails
-Projet fait par des passionnées de la tech Kotlin et de KorGE.
+## More Details
+Project created by tech enthusiasts in Kotlin and KorGE.
 
-## Comment contribuer
-Le projet est ouvert aux contributions. N'hésitez pas à soumettre vos idées et suggestions en créant une nouvelle "issue" dans le repository et/ou me faire part de ceci via Github et autres.
+## How to Contribute
+The project is open to contributions. Feel free to submit your ideas and suggestions by creating a new "issue" in the repository and/or contacting me via GitHub and other channels.
 
 <p align="center">
   <img src="ImgReadMe/logo_inspi_one.png" alt="logo_inspi_one" width="300" />
